@@ -1,0 +1,15 @@
+body{
+	margin:50px;
+}
+p{
+	color:red;
+}
+
+.container .content p{
+	color:green;
+}
+
+
+.container .content p{
+	background-color:pink;
+}
