@@ -26,19 +26,19 @@
 	width:40px;
 	background-color:black;
 }
-.parent{
-	position:relative;
+.parent {
+	position: relative;
+	height: 300px;
+	width: 300px;
 	margin: 10px;
-	height:200px;
-	width:200px;
-	background-color: pink;
+	background-color:pink;
 }
 .child{
 	position:absolute;
-	height:40px;
-	width:40px;
-	background-color: black;
-	top:80px;
-	right: 80px;
-
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background-color:black;
+	height:50px;
+	width:50px;
 }
