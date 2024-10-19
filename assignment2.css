@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .container #first{
 	color:green;
 }
@@ -42,49 +42,5 @@
 	background-color:black;
 	height:50px;
 	width:50px;
-=======
-.container #first{
-	color:green;
-}
-.container #second{
-	color:yellow;
-}
-.container #third{
-	color:purple;
-}
-.main p{
-	color:green;
-}
 
-
-.content{
-	display: flex;
-	height:300px;
-	width:300px;
-	background-color:pink;
-	justify-content: center;
-	align-items: center;
-}
-.item{
-	margin: 10px;
-	height:40px;
-	width:40px;
-	background-color:black;
-}
-.parent{
-	position:relative;
-	margin: 10px;
-	height:200px;
-	width:200px;
-	background-color: pink;
-}
-.child{
-	position:absolute;
-	height:40px;
-	width:40px;
-	background-color: black;
-	top:80px;
-	right: 80px;
-
->>>>>>> 9959abfaac2fa20959f9e394be707bf80d36095a
 }
