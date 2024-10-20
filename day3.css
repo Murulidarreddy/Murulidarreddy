@@ -1,0 +1,33 @@
+/* img{
+    height:400px;
+    width:400px;
+    float:right;
+}
+another paragraph{
+        font-size:50px;
+        float:left;
+        color:red;
+} */
+/* .MAIN {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	margin: 10px;
+	background-color:gray;
+}
+.container{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background-color:pink;
+
+	height:200px;
+	width:300px;
+    margin:20px;
+} */
+
+.header{
+    background-color: rgb(240, 238, 148);
+    height:200px;
+}
